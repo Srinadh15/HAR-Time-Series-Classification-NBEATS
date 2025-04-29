@@ -47,4 +47,4 @@
  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
  ## Contact
- For questions, contact [Your Name] at [your.email@example.com].
+ For questions, contact Srinadh Alugu at srinadhalugu0508@gmail.
